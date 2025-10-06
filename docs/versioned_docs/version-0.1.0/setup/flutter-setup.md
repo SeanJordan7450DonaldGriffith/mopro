@@ -189,3 +189,5 @@ Open the `./ios` directory in Xcode. You can find the plugin code in the `Projec
     <img src="/img/flutter-plugin-ios.png" alt="mopro.swift & MoproFlutterPlugin.swift" width="250"/>
 </div>
 :::
+
+<!-- Auto-update: 2025-10-06T10:05:54.553204 -->
